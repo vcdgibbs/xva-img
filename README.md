@@ -1,7 +1,9 @@
 XVA-IMG
 =======
 
-xva-img ya compilado usando **RockyLinux 9.5**
+**xva-img** ya compilado usando **RockyLinux 9.5**
+
+Es un binario ejecutable. dejar en /usr/local/bin
 
 Fuente: https://github.com/eriklax/xva-img
 
